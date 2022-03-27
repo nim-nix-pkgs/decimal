@@ -11,6 +11,7 @@
   inputs.src-decimal-master.ref   = "refs/heads/master";
   inputs.src-decimal-master.owner = "inv2004";
   inputs.src-decimal-master.repo  = "nim-decimal";
+  inputs.src-decimal-master.dir   = "";
   inputs.src-decimal-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
