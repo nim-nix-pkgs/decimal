@@ -7,7 +7,7 @@
   "license": "(MIT or Apache License 2.0) and Simplified BSD",
   "web": "https://github.com/inv2004/nim-decimal",
   "refs": [
-    "fatal: unable to access 'https://github.com/inv2004/nim-decimal/': SSL connection timeout",
+    "fatal: unable to access 'https://github.com/inv2004/nim-decimal/': Could not resolve host: github.com",
     ""
   ],
   "heads": []
